@@ -1,0 +1,16 @@
+.header {
+  background-color: #dadada;
+  border-bottom: 2px solid #a9a8a8;
+}
+.footer {
+  background-color: #dadada;
+  border-top: 2px solid #a9a8a8;
+}
+
+body {
+  background-color: #eeeeee;
+}
+
+.card {
+  background-color: #dadada;
+}
